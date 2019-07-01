@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+
+
+    .container
+    {
+           background-color:#4BB0F3;
+           padding:20px;
+           box-shadow: 10px 15px 7px #004C97;
+    }
+        .button {
+            background-color:#0378EC;
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            box-shadow: 10px 15px 5px grey;
+}
+
+  input[type=number] {
+  width: 30%;
+  border :2px solid white;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size:20px;
+  background-color:#2874A6;
+  color: white;
+}
+
+        input[type=text] {
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid white;
+  font-size:20px;
+  background-color:#2874A6;
+  color: white;
+}
+
+        label
+        {
+            font-size:20px;
+            color:white;
+        }
+        .button:hover
+        {
+            background-color:#024167;
+        }
+
+        .header
+        {
+            text-align:center;
+            padding:20px;
+            background:#EBF5FB;
+            margin-bottom:20px;
+            box-shadow: 10px 15px 10px black;
+        }
+        #send
+        {
+            margin-top:20px;
+            padding:20px;
+            background:#A1D6F6;
+            margin-left:300px;
+            margin-right:300px;
+            margin-bottom:50px;
+            box-shadow: 10px 15px 5px grey;
+        }
+    </style>
+    <meta charset="UTF-8">
+    <title>Wallet</title>
+    <script charset="utf-8"
+        src="https://cdn.ethers.io/scripts/ethers-v4.min.js"
+            type="text/javascript"></script>
+    {% load static %}
+  <script src="{% static 'wallet.js' %}"></script>
+
+</head>
+<body bgcolor="#5EBFF9">
+        <input type="button" class="button" onclick="logout()" value="logout">
+        <div class="header">
+            <h1>Ether Wallet</h1>
+            <img height="250px" width="250px" src="https://www.stickpng.com/assets/images/5a7593fc64538c292dec1bbf.png">
+        </div>
+        <div style=" box-shadow: 10px 15px 5px grey; width:50%; background:#086DAA; text-align:center; color:white; display:inline-block">
+            <h1>Address:</h1><h2 id ="address"></h2>
+        </div>
+        <div style=" width:49.6%; text-align:center; box-shadow: 10px 15px 5px grey; background:#009FFF; display:inline-block">
+        <h1>Balance:</h1><h2 id="balance"></h2>
+        </div>
+        <center>
+        <input style="margin-top:20px;" type="button" class="button" onclick="test()" value="Get Test Ether">
+        </center>
+        <div id="send">
+            <form>
+
+                <h1>Send Ethers</h1>
+                <div class="container">
+                <h2 style="color:#EBF5FB;">Sender </h2> <h2 style="color:#0C5F90;" id = "sender"></h2>
+                </div>
+                <br>
+                <div class="container">
+                <h2 style="color:#EBF5FB;">Receiver</h2>  <input type="text" id="receiveraddress">
+                </div>
+                <br>
+                <div class="container">
+                <h2 style="color:#EBF5FB;">amount</h2><input type="number" id="amount" oninput="calculate()">
+                <p id = "cost">0.000021</p>
+                    <center>
+                        <h1><p id = "balancecheck"></p></h1>
+                    </center>
+                </div>
+                <center>
+            <button class="button" type="button" onclick="sendmoney()">Send</button>
+                </center>
+        </form>
+        </div>
+</body>
+</html>
