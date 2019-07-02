@@ -36,4 +36,7 @@ We can see our address and balance here.
 ![Image of Wallet2](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet2.png)
 ![Image of Wallet3](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet3.png)
 
+# Test Eher
+
+By default the wallet is connected to Ropsten test network and not on the main ethereum network. We have a button called 
 
