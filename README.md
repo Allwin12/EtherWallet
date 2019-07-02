@@ -65,3 +65,7 @@ The metamask wallet looks like this. Click on the account name and copy the addr
 3) Enter the amount of ethers to be sent. (0.4 ethers)
 4) Click send.
 5) Our transaction summary is shown in (). once the status is complete, the new balance is updated in both the accounts and our transactions are reflected.
+
+![Image of Transfer](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/transfer.png)
+
+
