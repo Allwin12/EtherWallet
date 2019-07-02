@@ -51,3 +51,9 @@ Here we should specify our wallet address (e.g 0x0a1d81AB2608f3220B9dFBb0a8f55A7
 
 ![Image of Updatedbalance](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/updatedbalance.png)
 
+# Send ethers
+I am using metamask to demonstrate the send ethers. Metamask is a chrome extension and a ethereum wallet. I have another account created in metamask and connected to ropsten test network. (note: both the wallet addresses must be connected to a same network. i,e Ropsten test network here)
+
+The metamask wallet looks like this.
+
+
