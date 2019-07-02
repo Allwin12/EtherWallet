@@ -22,4 +22,8 @@ The screen looks like this.
 Let's just say i give the name as walletkey.txt
 
 The walletkey.txt will have the following data.
+
 >0xeb4cb48020ca6339db3f955870186b6e2f5019f99820aa5298d49b76a23d5dea
+>mercy recycle syrup ticket grit lamp pony matrix action banana menu tumble
+
+The first line is the primary key and the next line is the mnemonic phrase.
