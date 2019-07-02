@@ -29,3 +29,4 @@ The walletkey.txt will have the following data.
 The first line is the primary key and the next line is the mnemonic phrase.
 
 After this our wallet homepage opens.
+![Image of Wallet1](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet1.png)
