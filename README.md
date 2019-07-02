@@ -33,5 +33,7 @@ After this our wallet homepage opens.
 We can see our address and balance here.
 
 ![Image of Wallet1](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet1.png)
-![Image of Wallet1](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet2.png)
+![Image of Wallet2](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet2.png)
+![Image of Wallet3](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet3.png)
+
 
