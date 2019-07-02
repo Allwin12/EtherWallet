@@ -43,5 +43,8 @@ get test ether on the walletpage.
 
 ![Image of Button](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet2%20(1).png)
 
-clicking on this takes us to https://faucet.ropsten.be/
+clicking on this takes us to https://faucet.ropsten.be/. The page looks like this.
 
+![Image of Wallet3](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/faucet.png)
+
+Here we should specify our wallet address and click "send me test ether". A test ether of amount 1 will be added to our account. if we go back and refresh our account we can see that our balance now is "1.0" ether  which was previously "0.0" ethers.
