@@ -41,4 +41,4 @@ We can see our address and balance here.
 By default the wallet is connected to Ropsten test network and not on the main ethereum network. We have a button called 
 get test ether on the walletpage.
 
-![Image of Button](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet2(1).png)
+![Image of Button](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet2%20(1).png)
