@@ -68,5 +68,18 @@ The metamask wallet looks like this. Click on the account name and copy the addr
 
 ![Image of Transfer](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/transfer.png)
 
+# Transaction summary (pending)
+
+![Image of Etherscan](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/etherscan.png)
+
+# Transaction summary (Success)
+
+Once the transaction succeeds we can see the updated balances in our account.
+
+![Image of ethersuccess](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/etherscansuccess.png)
+
+
+
+
 
 
