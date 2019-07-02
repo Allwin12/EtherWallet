@@ -3,4 +3,4 @@ Ether wallet webapp using django and ether.js
 
 The home page looks like this.
 
-(https://github.com/Allwin12/EtherWallet/blob/master/screenshots/homepage.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
