@@ -54,5 +54,14 @@ Here we should specify our wallet address (e.g 0x0a1d81AB2608f3220B9dFBb0a8f55A7
 # Send ethers
 I am using metamask to demonstrate the send ethers. Metamask is a chrome extension and a ethereum wallet. I have another account created in metamask and connected to ropsten test network. (note: both the wallet addresses must be connected to a same network. i,e Ropsten test network here)
 
-The metamask wallet looks like this.
+The metamask wallet looks like this. Click on the account name and copy the address. This is the receiver address. We are going to send some ethers from our wallet to this account on the metamask wallet.
+
 ![Image of metamask](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/metamaskwallet.png)
+
+# Transfer
+
+1) Go to our wallet. 
+2) Type in or paste the receiver address. (0xb7Da0F9E26f47d6A22480560F7C260c8b40e94b9)
+3) Enter the amount of ethers to be sent. (0.4 ethers)
+4) Click send.
+5) Our transaction summary is shown in (). once the status is complete, the new balance is updated in both the accounts and our transactions are reflected.
