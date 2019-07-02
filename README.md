@@ -39,4 +39,5 @@ We can see our address and balance here.
 # Test Eher
 
 By default the wallet is connected to Ropsten test network and not on the main ethereum network. We have a button called 
+get test ether on the walletpage.
 
