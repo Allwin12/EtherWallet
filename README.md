@@ -9,4 +9,4 @@ The users will have two options.
 1. Create wallet
 2. Import wallet
 
-#Create wallet
+# Create wallet
