@@ -79,7 +79,15 @@ Once the transaction succeeds we can see the updated balances in our account.
 ![Image of ethersuccess](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/etherscansuccess.png)
 
 
+# Updated balance
 
+![Image of Metbalance](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/metamaskupdatedbalance.png)
 
+We can see that the balance of our metamask account is now 0.4 ethers, that we sent from our wallet.
 
+![Image of Updatedwalletbalance](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/updatedwalletbalance.png)
+
+Our wallet balance is now 0.599979 i.e, the 0.4 ethers that we sent minus the gas fee.
+
+Our wallet works and our transaction is complete.
 
