@@ -42,3 +42,6 @@ By default the wallet is connected to Ropsten test network and not on the main e
 get test ether on the walletpage.
 
 ![Image of Button](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/wallet2%20(1).png)
+
+clicking on this takes us to https://faucet.ropsten.be/
+
