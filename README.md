@@ -27,3 +27,5 @@ The walletkey.txt will have the following data.
 >mercy recycle syrup ticket grit lamp pony matrix action banana menu tumble
 
 The first line is the primary key and the next line is the mnemonic phrase.
+
+After this our wallet homepage opens.
