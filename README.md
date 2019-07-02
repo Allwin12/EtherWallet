@@ -18,3 +18,8 @@ If we click on create wallet a prompt window appears which will enable us to spe
 The screen looks like this.
 
 ![Image of homepage](https://github.com/Allwin12/EtherWallet/blob/master/screenshots/createwallet.png)
+
+Let's just say i give the name as walletkey.txt
+
+The walletkey.txt will have the following data.
+>0xeb4cb48020ca6339db3f955870186b6e2f5019f99820aa5298d49b76a23d5dea
